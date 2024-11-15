@@ -41,7 +41,8 @@ Những cải tiến: Với sự phát triển của công nghệ, thuật toán
 ______________________________________________________________________________________________________________________________
 # phần miêu tả ngôn ngữ để lập trình 
 ngôn ngữ để lập trình mô phỏng qua python
-. ngôn ngữ python là gì ?
+
+ngôn ngữ python là gì ?
 
 Ngôn ngữ Python là một trong những ngôn ngữ lập trình phổ biến và dễ học hiện nay. Nó được Guido van Rossum phát triển vào cuối những năm 1980 và được phát hành lần đầu tiên vào năm 1991. Python nổi bật với cú pháp dễ đọc, dễ hiểu và dễ duy trì, đồng thời có một cộng đồng lớn mạnh và thư viện hỗ trợ phong phú.
 # các cú pháp nổi bật
