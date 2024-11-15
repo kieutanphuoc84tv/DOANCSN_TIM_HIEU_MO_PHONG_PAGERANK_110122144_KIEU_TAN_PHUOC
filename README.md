@@ -36,7 +36,8 @@ Tầm quan trọng của PageRank: Thuật toán này không chỉ giúp sắp x
 Những cải tiến: Với sự phát triển của công nghệ, thuật toán PageRank đã được mở rộng và cải tiến, nhưng nguyên tắc cơ bản vẫn được sử dụng rộng rãi
 ___________________________________________________________________________________________________________________________________________
 
-#Phương pháp thực hiện
+# Phương pháp thực hiện
+
 -Tìm hiểu thuật toán PageRank: Nghiên cứu nguyên lý  hoạt động của thuật toán cách tính toán và xếp hạng cho các trang web dựa trên liên kết 
 -Xây dụng mô phỏng PageRank: Lập trình mô Phỏng thuật toán PageRank bằng ngôn ngữ Python hoặc C++
 -Kiểm tra mô phỏng và điều chỉnh: Chạy thử mô phỏng trên tập dữ liệu nhỏ và điều chỉnh lại thuật toán để đạt được kết quả chính xác 
