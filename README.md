@@ -55,9 +55,13 @@ Phát triển phần mềm: Python cũng có thể được dùng để phát tr
 3.Thư viện phong phú: Python có rất nhiều thư viện và công cụ sẵn có giúp giảm thiểu thời gian phát triển phần mềm. Một số thư viện nổi bật như:
 
 . NumPy: Xử lý mảng và tính toán số học.
+
 . Pandas: Phân tích dữ liệu.
+
 . Matplotlib: Vẽ đồ thị.
+
 . Django/Flask: Phát triển ứng dụng web.
+
 . TensorFlow, PyTorch: Phát triển mô hình học sâu.
 
 4.Quản lý bộ nhớ tự động: Python sử dụng bộ thu gom rác (garbage collection) để quản lý bộ nhớ tự động, giúp lập trình viên không phải lo lắng về việc cấp phát và giải phóng bộ nhớ.
