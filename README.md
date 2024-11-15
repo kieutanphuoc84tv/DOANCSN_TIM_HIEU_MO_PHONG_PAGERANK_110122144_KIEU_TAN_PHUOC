@@ -34,7 +34,40 @@ Li là các trang có liên kết đến trang A
 - Xếp hạng trang web: PageRank giúp Google và các công cụ tìm kiếm khác xếp hạng các trang web.
 - Phân tích mạng lưới: Dùng trong phân tích mạng xã hội hoặc các hệ thống liên kết.
 - Phân tích trang quan trọng trong hệ thống lớn: Ứng dụng trong ngành khoa học dữ liệu và phân tích mạng lưới phức tạp
-  
+
+# ngôn ngữ để lập trình mô phỏng qua python
+. ngôn ngữ python là gì ?
+
+Ngôn ngữ Python là một trong những ngôn ngữ lập trình phổ biến và dễ học hiện nay. Nó được Guido van Rossum phát triển vào cuối những năm 1980 và được phát hành lần đầu tiên vào năm 1991. Python nổi bật với cú pháp dễ đọc, dễ hiểu và dễ duy trì, đồng thời có một cộng đồng lớn mạnh và thư viện hỗ trợ phong phú.
+# các cú pháp nổi bật
+
+Các đặc điểm nổi bật của Python:
+1. Cú pháp dễ hiểu: Python được thiết kế với mục tiêu là dễ học và dễ sử dụng. Cú pháp của nó gần gũi với ngôn ngữ tự nhiên, giúp lập trình viên dễ dàng đọc và hiểu mã nguồn. Ví dụ, thay vì sử dụng dấu ngoặc nhọn {} như trong C, C++ hay Java, Python sử dụng cách thụt lề để phân tách các khối mã.
+
+2. Được sử dụng trong nhiều lĩnh vực:
+
+Phát triển web: Python hỗ trợ các framework phổ biến như Django, Flask.
+Khoa học dữ liệu: Với các thư viện như NumPy, pandas, Matplotlib, Python là một lựa chọn hàng đầu trong lĩnh vực này.
+Học máy (Machine Learning): Các thư viện như TensorFlow, Keras, Scikit-learn giúp việc phát triển các mô hình học máy trở nên dễ dàng.
+Tự động hóa: Python rất mạnh mẽ trong việc viết script để tự động hóa các tác vụ.
+Phát triển phần mềm: Python cũng có thể được dùng để phát triển phần mềm desktop hoặc ứng dụng.
+
+3.Thư viện phong phú: Python có rất nhiều thư viện và công cụ sẵn có giúp giảm thiểu thời gian phát triển phần mềm. Một số thư viện nổi bật như:
+
+. NumPy: Xử lý mảng và tính toán số học.
+. Pandas: Phân tích dữ liệu.
+. Matplotlib: Vẽ đồ thị.
+. Django/Flask: Phát triển ứng dụng web.
+. TensorFlow, PyTorch: Phát triển mô hình học sâu.
+
+4.Quản lý bộ nhớ tự động: Python sử dụng bộ thu gom rác (garbage collection) để quản lý bộ nhớ tự động, giúp lập trình viên không phải lo lắng về việc cấp phát và giải phóng bộ nhớ.
+
+5.Hướng đối tượng và lập trình hàm: Python hỗ trợ cả lập trình hướng đối tượng (OOP) và lập trình hàm (functional programming). Điều này cho phép lập trình viên linh hoạt chọn phong cách lập trình phù hợp với nhu cầu.
+
+6. Cross-platform: Python có thể chạy trên nhiều hệ điều hành như Windows, macOS, Linux mà không cần thay đổi mã nguồn.
+
+
+
  # kết luận
 Tầm quan trọng của PageRank: Thuật toán này không chỉ giúp sắp xếp thông tin trên Internet mà còn có thể áp dụng trong nhiều lĩnh vực phân tích khác
 Những cải tiến: Với sự phát triển của công nghệ, thuật toán PageRank đã được mở rộng và cải tiến, nhưng nguyên tắc cơ bản vẫn được sử dụng rộng rãi
