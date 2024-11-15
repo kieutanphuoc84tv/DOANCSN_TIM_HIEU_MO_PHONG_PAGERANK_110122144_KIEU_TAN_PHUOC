@@ -75,11 +75,6 @@ Phát triển phần mềm: Python cũng có thể được dùng để phát tr
 
 6. Cross-platform: Python có thể chạy trên nhiều hệ điều hành như Windows, macOS, Linux mà không cần thay đổi mã nguồn.
 
-
-
- # kết luận
-Tầm quan trọng của PageRank: Thuật toán này không chỉ giúp sắp xếp thông tin trên Internet mà còn có thể áp dụng trong nhiều lĩnh vực phân tích khác
-Những cải tiến: Với sự phát triển của công nghệ, thuật toán PageRank đã được mở rộng và cải tiến, nhưng nguyên tắc cơ bản vẫn được sử dụng rộng rãi
 ___________________________________________________________________________________________________________________________________________
 
 # Phương pháp thực hiện
@@ -112,8 +107,14 @@ ________________________________________________________________________________
 <img width="256" alt="tzt4j7ih7s5cmi65rbstq4q4byrn" src="https://github.com/user-attachments/assets/4805a919-9787-45a4-a4cd-4fd031ae7dd3">
 
 _______________________________________________________________________________________________________________________
-# sử dụng ngôn ngữ
+# sử dụng ngôn ngữ 
 python
+________________________________________________________________________________________________________________________
+
+# sử dụng phần mềm để thiết kế mô phỏng
+1. jupyter 
+2. Matplotlib (Python)
+3. vscode
 ____________________________________________________________________________________________________________________________________________
 # Phần liên hệ
 EMAIL: 110122144@st.tvu.edu.vn
