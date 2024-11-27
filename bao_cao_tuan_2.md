@@ -34,12 +34,14 @@ trong việc xây dựng mô phỏng thì gặp các vấn đề như:
 > sau đây là hình ảnh bị lỗi mô phỏng
 - phần mục code:
   
-![image](https://github.com/user-attachments/assets/950e27ef-0874-4ff0-92df-0ae3b3fc2a95)
+![image](https://github.com/user-attachments/assets/c4d8cb80-2df3-4ec7-8964-61b7e8ebfaed)
+
 
 
 - phần hình ảnh:
   
-![image](https://github.com/user-attachments/assets/a7b86c52-84c9-4764-ae7e-478e63898c83)
+![image](https://github.com/user-attachments/assets/2ab2d508-f3db-4996-af78-185d4f1c1705)
+
 
 > mô tả phần lỗi:
 
@@ -53,6 +55,14 @@ trong việc xây dựng mô phỏng thì gặp các vấn đề như:
   
 - Không rõ ràng trong trực quan hóa: Do không hiển thị số liệu nào, người dùng không thể hiểu logic hoặc thông tin trong đồ thị.
 - Không phù hợp để kiểm chứng thuật toán: Mô phỏng này không cung cấp thông tin cần thiết để đánh giá hoặc xác nhận cách hoạt động của thuật toán PageRank.
+
+  > phần sau khi sửa lỗi
+
+  ![image](https://github.com/user-attachments/assets/f711dc6d-97e6-483f-9425-886c7b3d1892)
+
+  ![image](https://github.com/user-attachments/assets/7c7b0bf7-1ad4-4764-9505-12a7e85abc16)
+
+
   
 > kinh nghiệm
 
