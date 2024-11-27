@@ -39,7 +39,7 @@ trong việc xây dựng mô phỏng thì gặp các vấn đề như:
 
 - phần hình ảnh:
   
-![image](https://github.com/user-attachments/assets/8c521890-c29a-42bc-9ec2-f7aaab941189)
+![image](https://github.com/user-attachments/assets/a7b86c52-84c9-4764-ae7e-478e63898c83)
 
 > mô tả phần lỗi:
 
