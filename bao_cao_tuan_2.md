@@ -1,6 +1,6 @@
 # GIỚI THIỆU
 
-HỌ và Tên: KIỀU TẤN PHƯỚC
+Họ và Tên: KIỀU TẤN PHƯỚC
 
 LỚP:DA22TTB
 
