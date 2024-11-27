@@ -81,6 +81,9 @@ kiểm tra logic thuật toán:
 -	Viết báo cáo rõ ràng từng bước thực hiện.
 -	Rà sót lại xem có bị lỗi khi chạy mô phỏng 
 
+# sinh viên thực hiện
+
+KIỀU TẤN PHƯỚC
 
 
 
