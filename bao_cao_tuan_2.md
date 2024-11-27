@@ -74,10 +74,10 @@ kiểm tra logic thuật toán:
 
 # Kế hoạch tuần tiếp theo
 
--	Hoàn thiện mô phỏng thuật toán PageRank (2D và biểu đồ cột).
-- hoàn thiện mô phỏng thuật toán và ứng dụng 3D.
+-	Hoàn thiện mô phỏng thuật toán PageRank (biểu đồ 2D)
+- thêm các biểu đồ trực quan như biểu đồ cột và mô phỏng 3D
 -	 Thêm trực quan hóa (tên nút, trọng số) vào biểu đồ bằng matplotlib hoặc Dash.
--	 Đảm bảo sơ đồ 2D được vẽ đúng bằng thư viện như networkx.
+-	 Đảm bảo lại sơ đồ 2D được vẽ đúng bằng thư viện như networkx.
 -	Viết báo cáo rõ ràng từng bước thực hiện.
 -	Rà sót lại xem có bị lỗi khi chạy mô phỏng 
 
