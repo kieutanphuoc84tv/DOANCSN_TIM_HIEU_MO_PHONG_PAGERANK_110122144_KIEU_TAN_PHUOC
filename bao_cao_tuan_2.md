@@ -82,6 +82,7 @@ kiểm tra logic thuật toán:
 
 - Mặc dù thuật toán PageRank vẫn hoạt động khi thiếu trọng số nhưng kết quả có thể không phản ánh đúng ý định thực tế. Việc gán trọng số hợp lý sẽ làm kết quả mô phỏng chính xác và sát thực tế hơn.
 
+
 # Kế hoạch tuần tiếp theo
 
 -	Hoàn thiện mô phỏng thuật toán PageRank (biểu đồ 2D)
