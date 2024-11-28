@@ -32,13 +32,12 @@ trong việc xây dựng mô phỏng thì gặp các vấn đề như:
 -	Biểu đồ không được cấu hình đúng cách khi hiển thị.
   
 > sau đây là hình ảnh bị lỗi mô phỏng
-- phần mục code:
+. phần mục code:
   
 ![image](https://github.com/user-attachments/assets/c4d8cb80-2df3-4ec7-8964-61b7e8ebfaed)
 
 
-
-- phần hình ảnh:
+. phần hình ảnh:
   
 ![image](https://github.com/user-attachments/assets/2ab2d508-f3db-4996-af78-185d4f1c1705)
 
