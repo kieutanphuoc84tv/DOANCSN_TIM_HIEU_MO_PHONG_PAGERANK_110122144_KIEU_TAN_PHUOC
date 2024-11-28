@@ -1,12 +1,12 @@
 # GIỚI THIỆU
 
-Họ và Tên: KIỀU TẤN PHƯỚC
+- Họ và Tên: KIỀU TẤN PHƯỚC
 
-LỚP:DA22TTB
+- LỚP:DA22TTB
 
-MSSV: 110122144
+- MSSV: 110122144
 
-GIÁO VIÊN HƯỚNG DẪN: NGUYỄN NHỨT LAM
+- GIÁO VIÊN HƯỚNG DẪN: NGUYỄN NHỨT LAM
 
 ------------------------------------------------------------
 # PHẦN NỘI DUNG BÁO CÁO TUẦN 2 | 18/11/2024 - 24/11/2024
