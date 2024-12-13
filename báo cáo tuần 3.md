@@ -13,7 +13,7 @@ Giáo viên hướng dẫn: Nguyễn Nhứt Lam
 
 Hôm nay em sinh báo cáo tiến độ đồ án về thuật toán mô phỏng PAGERANK của em như sau:
 
-# Mục tiêu:
+> Mục tiêu:
 - Hoàn thiện mô phỏng thuật toán PageRank (2D và biểu đồ cột).
 - Hoàn thiện mô phỏng thuật toán và ứng dụng 3D.
 - Thêm trực quan hóa (tên nút, trọng số) vào biểu đồ bằng matplotlib hoặc Dash.
@@ -21,11 +21,13 @@ Hôm nay em sinh báo cáo tiến độ đồ án về thuật toán mô phỏng
 - Viết báo cáo rõ ràng từng bước thực hiện.
 - Rà sót lại xem có bị lỗi khi chạy mô phỏng
 
-# Kết Quả:
+> Kết Quả:
 - Đã hoàn thiện được mô phỏng thuật toán PAGERANK 2D và biểu đồ cột
 - Đã thực hiện được mô phỏng trực quan hóa thuật toán 3D PAGERANK
 - Đã thực hiện được tên nút và trọng số rõ ràng trên biểu đồ để nhận biết được các nút liên kết
 - Đã thực hiện sơ đồ 2D bằng thư viện networkX
 - Đã viết báo cáo từng bước 70%
 - rà sót lại quá trình không phát hiện lỗi
+
+# Phần nội dung sau
 
