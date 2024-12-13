@@ -108,6 +108,7 @@ về phần này em đã bị gặp khó khăn là việc đưa các số nút v
 - Trong phần mô phỏng PageRank này em đã sử dụng các đồ thị 2D và 3D để minh họa các liên kết và thứ tự ảnh hưởng của các nút trong mạng việc sử dụng mô phỏng 3D giúp người dùng dễ dàng nhìn thấy các quan hệ giữa các nút từ nhiều góc độ khác nhau từ đó đưa ra những đánh giá chính xác hơn về tầm quan trọng của từng nút đồ thị 2D lại cung cấp một cái nhìn đơn giản dễ hiểu về cấu trúc của mạng và sự phân bổ của các giá trị PageRank.
 
 - Để thực hiện mô phỏng này, em đã sử dụng thư viện Dash để xây dựng giao diện người dùng tương tác kết hợp với Plotly để tạo các biểu đồ và trực quan hóa dữ liệu Dash cho phép em dễ dàng tạo các ứng dụng web để người dùng có thể tương tác trực tiếp với dữ liệu, thay đổi các tham số và quan sát sự thay đổi của các giá trị PageRank trong thời gian thực mô hình này không chỉ giúp nâng cao hiệu quả trong việc phân tích mạng mà còn hỗ trợ người dùng trong việc đánh giá, nhận định các liên kết trong các hệ thống phức tạp.
+  
 | hình ảnh thư viện DASH
 
 ![ảnh](https://github.com/user-attachments/assets/b0de890c-385f-4cf6-9721-4900705bd9a9)
