@@ -11,7 +11,7 @@ Giáo viên hướng dẫn: Nguyễn Nhứt Lam
 
 - Từ ngày 02/12/2024 đến 08/12/2024
 
-Hôm nay em sinh báo cáo tiến độ đồ án về thuật toán mô phỏng PAGERANK của em như sau:
+Hôm nay em xin báo cáo tiến độ đồ án về thuật toán mô phỏng PAGERANK của em như sau:
 
 > Mục tiêu:
 - Hoàn thiện mô phỏng thuật toán PageRank (2D và biểu đồ cột).
