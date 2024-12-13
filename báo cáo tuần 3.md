@@ -66,7 +66,9 @@ phần mục code và hình ảnh của em đã thực hiện như sau:
     Đây là đoạn mã nguồn em đã sử dụng để thực hiện mô phỏng thuật toán PageRank.
     Đoạn mã bao gồm hai phần chính:
   
-  Biểu đồ cột PageRank: Hiển thị thứ hạng của từng nút (node) bằng các cột với giá trị PageRank được chú thích ngay trên từng cột để dễ dàng quan sát.
+  Biểu đồ cột PageRank: 
+
+Hiển thị thứ hạng của từng nút (node) bằng các cột với giá trị PageRank được chú thích ngay trên từng cột để dễ dàng quan sát.
   Biểu đồ 2D Network: Mô phỏng mạng lưới các nút và liên kết (edges) giữa chúng sử dụng thư viện networkX để định vị các nút các giá trị PageRank cũng được hiển thị bằng số màu đỏ gần từng nút.
 
 - Hình ảnh thứ hai (Kết quả đầu ra mô phỏng PageRank):
