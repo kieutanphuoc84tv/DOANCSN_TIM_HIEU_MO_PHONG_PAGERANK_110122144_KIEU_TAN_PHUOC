@@ -8,3 +8,9 @@ ___________________________________________________
 
 # Nội dung báo cáo:
 
+> Từ ngày 16/12/2024 đến 29/12/2024
+
+Hôm nay em xin báo cáo tuần thứ 4 với thầy bao gồm như sau:
+
+
+
