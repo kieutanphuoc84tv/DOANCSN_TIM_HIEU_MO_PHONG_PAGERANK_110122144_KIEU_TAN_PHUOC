@@ -14,16 +14,14 @@ Giáo viên hướng dẫn: Nguyễn Nhứt Lam
 Hôm nay em xin báo cáo tiến độ đồ án về thuật toán mô phỏng PAGERANK của em như sau:
 
 > Mục tiêu:
-- Hoàn thiện mô phỏng thuật toán PageRank (2D và biểu đồ cột).
-- Hoàn thiện mô phỏng thuật toán và ứng dụng 3D.
+- Hoàn thiện mô phỏng thuật toán PageRank (biểu đồ 2D)
 - Thêm trực quan hóa (tên nút, trọng số) vào biểu đồ bằng matplotlib hoặc Dash.
-- Đảm bảo sơ đồ 2D được vẽ đúng bằng thư viện như networkX.
+- Đảm bảo lại sơ đồ 2D được vẽ đúng bằng thư viện như networkx.
 - Viết báo cáo rõ ràng từng bước thực hiện.
 - Rà sót lại xem có bị lỗi khi chạy mô phỏng
 
 > Kết Quả:
 - Đã hoàn thiện được mô phỏng thuật toán PAGERANK 2D và biểu đồ cột
-- Đã thực hiện được mô phỏng trực quan hóa thuật toán 3D PAGERANK
 - Đã thực hiện được tên nút và trọng số rõ ràng trên biểu đồ để nhận biết được các nút liên kết
 - Đã thực hiện sơ đồ 2D bằng thư viện networkX
 - Đã viết báo cáo từng bước 70%
@@ -32,17 +30,12 @@ Hôm nay em xin báo cáo tiến độ đồ án về thuật toán mô phỏng 
 > Khó khăn:
 trong phần mô phỏng thuật toán thì em có khó khăn như sau:
 - xây dựng các nút đôi khi không giống với biểu đồ 2D
-- lỗi không di chuyển được mô phỏng ( như xoay ngang hoặc xoay dọc )
 - mô phỏng không đúng trình tự logic
 > khắc phục
 
 - Xây dựng các nút không giống với biểu đồ 2D:
 
 Em đã rà soát lại logic trong việc khai báo và định nghĩa các nút cùng với trọng số. Để đảm bảo sơ đồ 2D đúng với biểu đồ lý thuyết em sử dụng thư viện networkX với cách định nghĩa đồ thị cụ thể em cũng kiểm tra kỹ đầu vào của các nút và cạnh trước khi chuyển sang mô phỏng.
-
-- Lỗi không di chuyển được mô phỏng (như xoay ngang hoặc xoay dọc):
-  
-Em đã sử dụng tính năng hỗ trợ xoay tự động của thư viện Dash 3D cụ thể em thêm chế độ camera rotation trong biểu đồ 3D cho phép người dùng điều chỉnh góc nhìn trực tiếp bằng chuột hoặc bàn phím.
 
 - Mô phỏng không đúng trình tự logic:
 
