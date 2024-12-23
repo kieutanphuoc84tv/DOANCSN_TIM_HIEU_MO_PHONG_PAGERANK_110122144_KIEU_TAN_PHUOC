@@ -76,23 +76,13 @@ Tính năng chính:
     
    - Các giá trị PageRank được chú thích cụ thể hỗ trợ kiểm tra nhanh kết quả đầu ra của thuật toán.
 
-> Phần thuật toán mô phỏng 3D
-
-về phần này em đã nghiên cứu tập trung phần 3D sao cho đúng với phần mô phỏng PAGERANK 2D
-
-
  > mô tả
 trong phần mô tả này thì em đã sử dụng thư viện ploty và networkX để xây dựng thuật toán mô phỏng pageRank hoàn chỉnh để em có thể xem các nút cạnh (edges) hoàn toàn rõ ràng và dễ hiểu nhất
   
-| hình ảnh thư viện DASH
+| hình ảnh thư viện Ploty
+![image](https://github.com/user-attachments/assets/804a706d-2371-436f-912a-fc36c731ac23)
 
-
-
-phần thư viện này đã giúp cho em liên kết được trang web của DASH bằng cách click chuột vào ID trên thanh terminal của visual code 
-
-![Screenshot 2024-12-13 231259](https://github.com/user-attachments/assets/12dee205-0f98-4b2e-93ca-9d1db83960e3)
-
-Do đó em có thể thấy được biểu đồ 3D và 2D PAGERANK
+Do đó em có thể thấy được biểu đồ mô phỏng PageRank
 
 # phần mục tuần kế tiếp
 
