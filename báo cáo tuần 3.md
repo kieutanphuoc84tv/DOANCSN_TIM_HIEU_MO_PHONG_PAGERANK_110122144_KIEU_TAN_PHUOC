@@ -52,12 +52,9 @@ Em đã kiểm tra và tối ưu lại thuật toán tính toán thứ hạng Pa
 
 phần mục code và hình ảnh của em đã thực hiện như sau: 
 
-![ảnh](https://github.com/user-attachments/assets/b07d3f65-fc5c-4976-9cae-e1afa452d4ca) 
+![image](https://github.com/user-attachments/assets/bbd04a4f-19a0-4d45-a8bd-c91f341bd78b)
 
---------------------------------------------------------------------------------------
-
-![Figure_1](https://github.com/user-attachments/assets/766e945d-f0a4-47f8-9369-0b168b11b967)
-
+-----------------------------------------------------------------------------------------------------------------
 
 > mô tả :
 
@@ -90,23 +87,8 @@ Tính năng chính:
 
 về phần này em đã nghiên cứu tập trung phần 3D sao cho đúng với phần mô phỏng PAGERANK 2D
 
-![ảnh](https://github.com/user-attachments/assets/ce78cade-fffd-4906-801b-b7966d32387c)
 
---------------------------------------------------------------------------------------------
-
-![ảnh](https://github.com/user-attachments/assets/f414703a-cc51-407a-8a40-ecd1119d66ea)
-
-> mô tả
-
-về phần này em đã bị gặp khó khăn là việc đưa các số nút vào liên kết nhưng cả 2 biểu đồ không hiện nên em đã sử dụng marker(điểm nút) và text (nhãn )
-
-> phần sửa lại:
-![ảnh](https://github.com/user-attachments/assets/9520b132-ab19-48cb-976e-d31196bbb026)
-
-------------------------------------------------------------------------------------------
-
-![ảnh](https://github.com/user-attachments/assets/544835e5-0c6a-4df2-b014-8c3a5a8ef7c4)
-
+ > mô tả
 - Trong phần mô phỏng PageRank này em đã sử dụng các đồ thị 2D và 3D để minh họa các liên kết và thứ tự ảnh hưởng của các nút trong mạng việc sử dụng mô phỏng 3D giúp người dùng dễ dàng nhìn thấy các quan hệ giữa các nút từ nhiều góc độ khác nhau từ đó đưa ra những đánh giá chính xác hơn về tầm quan trọng của từng nút đồ thị 2D lại cung cấp một cái nhìn đơn giản dễ hiểu về cấu trúc của mạng và sự phân bổ của các giá trị PageRank.
 
 - Để thực hiện mô phỏng này, em đã sử dụng thư viện Dash để xây dựng giao diện người dùng tương tác kết hợp với Plotly để tạo các biểu đồ và trực quan hóa dữ liệu Dash cho phép em dễ dàng tạo các ứng dụng web để người dùng có thể tương tác trực tiếp với dữ liệu, thay đổi các tham số và quan sát sự thay đổi của các giá trị PageRank trong thời gian thực mô hình này không chỉ giúp nâng cao hiệu quả trong việc phân tích mạng mà còn hỗ trợ người dùng trong việc đánh giá, nhận định các liên kết trong các hệ thống phức tạp.
